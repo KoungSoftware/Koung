@@ -30,3 +30,35 @@ C:\Users\Rizu\documents\visual studio 2013\Projects\Koung\KoungWebApp\bin\System
 C:\Users\Rizu\documents\visual studio 2013\Projects\Koung\KoungWebApp\obj\Debug\KoungWebApp.csprojResolveAssemblyReference.cache
 C:\Users\Rizu\documents\visual studio 2013\Projects\Koung\KoungWebApp\obj\Debug\KoungWebApp.dll
 C:\Users\Rizu\documents\visual studio 2013\Projects\Koung\KoungWebApp\obj\Debug\KoungWebApp.pdb
+D:\Code\Koung\KoungWebApp\bin\KoungWebApp.dll.config
+D:\Code\Koung\KoungWebApp\bin\KoungWebApp.dll
+D:\Code\Koung\KoungWebApp\bin\KoungWebApp.pdb
+D:\Code\Koung\KoungWebApp\bin\Antlr3.Runtime.dll
+D:\Code\Koung\KoungWebApp\bin\EntityFramework.dll
+D:\Code\Koung\KoungWebApp\bin\Microsoft.Web.Infrastructure.dll
+D:\Code\Koung\KoungWebApp\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\Code\Koung\KoungWebApp\bin\Newtonsoft.Json.dll
+D:\Code\Koung\KoungWebApp\bin\System.Net.Http.Formatting.dll
+D:\Code\Koung\KoungWebApp\bin\System.Web.Http.dll
+D:\Code\Koung\KoungWebApp\bin\System.Web.Http.WebHost.dll
+D:\Code\Koung\KoungWebApp\bin\System.Web.Mvc.dll
+D:\Code\Koung\KoungWebApp\bin\System.Web.Optimization.dll
+D:\Code\Koung\KoungWebApp\bin\System.Web.Providers.dll
+D:\Code\Koung\KoungWebApp\bin\System.Web.Razor.dll
+D:\Code\Koung\KoungWebApp\bin\System.Web.WebPages.Deployment.dll
+D:\Code\Koung\KoungWebApp\bin\System.Web.WebPages.dll
+D:\Code\Koung\KoungWebApp\bin\System.Web.WebPages.Razor.dll
+D:\Code\Koung\KoungWebApp\bin\WebGrease.dll
+D:\Code\Koung\KoungWebApp\bin\EntityFramework.xml
+D:\Code\Koung\KoungWebApp\bin\Newtonsoft.Json.xml
+D:\Code\Koung\KoungWebApp\bin\System.Net.Http.Formatting.xml
+D:\Code\Koung\KoungWebApp\bin\System.Web.Http.xml
+D:\Code\Koung\KoungWebApp\bin\System.Web.Http.WebHost.xml
+D:\Code\Koung\KoungWebApp\bin\System.Web.Mvc.xml
+D:\Code\Koung\KoungWebApp\bin\System.Web.Razor.xml
+D:\Code\Koung\KoungWebApp\bin\System.Web.WebPages.xml
+D:\Code\Koung\KoungWebApp\bin\System.Web.WebPages.Deployment.xml
+D:\Code\Koung\KoungWebApp\bin\System.Web.WebPages.Razor.xml
+D:\Code\Koung\KoungWebApp\obj\Debug\KoungWebApp.csprojResolveAssemblyReference.cache
+D:\Code\Koung\KoungWebApp\obj\Debug\KoungWebApp.dll
+D:\Code\Koung\KoungWebApp\obj\Debug\KoungWebApp.pdb

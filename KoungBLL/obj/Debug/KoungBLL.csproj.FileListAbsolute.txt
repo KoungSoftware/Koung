@@ -1,0 +1,4 @@
+D:\Code\Koung\KoungBLL\bin\Debug\KoungBLL.dll
+D:\Code\Koung\KoungBLL\bin\Debug\KoungBLL.pdb
+D:\Code\Koung\KoungBLL\obj\Debug\KoungBLL.dll
+D:\Code\Koung\KoungBLL\obj\Debug\KoungBLL.pdb
